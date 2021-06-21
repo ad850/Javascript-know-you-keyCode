@@ -1,0 +1,31 @@
+body{
+
+background-color:darksalmon;
+
+}
+
+#container{
+
+width: 96vw;
+height: 97vh;
+
+display: flex;
+justify-content:center;
+align-items: center;
+text-align: center;
+}
+#box{
+
+width: 700px;
+height: 400px;
+background-color: white;
+border-radius: 30px;
+
+}
+#result{
+
+
+font-size: 7em;
+
+
+}
